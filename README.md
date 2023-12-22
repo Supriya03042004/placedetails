@@ -1,0 +1,2 @@
+# placedetails
+about places
